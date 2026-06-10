@@ -1,11 +1,7 @@
 # Diabetes Prediction System
-**UAS Data Mining -**
+**Data Mining -**
 
 Sistem analisis prediksi diabetes berbasis Machine Learning menggunakan dataset Pima Indians Diabetes Database dengan tiga metode: **Klasifikasi (Random Forest)**, **Clustering (K-Means)**, dan **Anomaly Detection (Isolation Forest)**.
-
----
-
----
 
 ## Cara Menjalankan
 
@@ -77,7 +73,7 @@ UAS_DataMining_KelompokDiabetes/
 ├── requirements.txt
 └── README.md
 ```
-
+Catatan : Pastikan Struktur foldernya sama kecuali laporan
 ---
 
 ## 🧠 Metode yang Digunakan
